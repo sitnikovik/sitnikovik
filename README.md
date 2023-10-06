@@ -60,7 +60,7 @@ I started my carreer at July of 2017 and since that I do not image myself withou
 - **Domkihot** (07.2017 - 08.2019) as full-stack developer `#house_building`  `#ecommerce`
 - **MagicWood** (08.2019 - 09.2021) as full-stack developer  `#house_building ` `#ecommerce`
 - **Alfa Razvitie** (09.2021 - 05.2022) as team-lead, full-stack developer `#osint`
-- **Phillip Plein** (05.2022 - 11.2022)  as back-end developer `#ecommerce`
+- **Philipp Plein** (05.2022 - 11.2022)  as back-end developer `#ecommerce`
 - **Nodasoft** (11.2022 - *now*) as back-end developer `#ecommerce`
 
 ### In spare time working on:
