@@ -6,7 +6,7 @@ I started my carreer at July of 2017 and since that I do not image myself withou
 ### My stack
 <p>
 
- 	<a>
+ 	<a href="#">
 		<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
 	</a>
 	<a href="#">
