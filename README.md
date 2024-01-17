@@ -40,4 +40,4 @@ I started my carreer at July of 2017 and since that I do not image myself withou
 - OSINT features and pet projects
 - Inspiring algorithms
 - Performing experiments
-- Think that I still do know nothithing 😉
+- Thinking I still do know nothing 😉
