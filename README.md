@@ -29,11 +29,11 @@ I started my carreer at July of 2017 and since that I do not image myself withou
 
 ### Worked at
 
-- **Domkihot** (07.2017 - 08.2019) as full-stack developer `#ecommerce` `#house_building`
-- **MagicWood** (08.2019 - 09.2021) as full-stack developer `#ecommerce` `#house_building`
-- **Alfa Razvitie** (09.2021 - 05.2022) as team-lead, full-stack developer `#osint` `#consulting`
-- **Philipp Plein** (05.2022 - 11.2022) as full-end developer `#ecommerce` `#fasion` `#wear`
 - **ABCP** (11.2022 - *now*) as back-end developer `#ecommerce` `#saas` `#auto_parts`
+- **Philipp Plein** (05.2022 - 11.2022) as full-end developer `#ecommerce` `#fasion` `#wear`
+- **Alfa Razvitie** (09.2021 - 05.2022) as team-lead, full-stack developer `#osint` `#consulting`
+- **MagicWood** (08.2019 - 09.2021) as full-stack developer `#ecommerce` `#house_building`
+- **Domkihot** (07.2017 - 08.2019) as full-stack developer `#ecommerce` `#house_building`
 
 ### In spare time working on:
 
