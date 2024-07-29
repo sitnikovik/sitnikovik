@@ -1,4 +1,4 @@
-# Back-end developer at NodaSoft from Russia 🇷🇺
+# Back-end developer at OZON from Russia 🇷🇺
 
 ### About me
 I started my carreer at July of 2017 and since that I do not image myself without programing.
@@ -28,7 +28,8 @@ I started my carreer at July of 2017 and since that I do not image myself withou
 
 ### Worked at
 
-- **ABCP** (11.2022 - *now*) as back-end developer `#ecommerce` `#saas` `#auto_parts`
+- **Ozon Travel** (07.2024 - *now*) as back-end deveveloper `travel`
+- **ABCP** (11.2022 - 07.2024) as back-end developer `#ecommerce` `#saas` `#auto_parts`
 - **Philipp Plein** (05.2022 - 11.2022) as full-end developer `#ecommerce` `#fasion` `#wear`
 - **Alfa Razvitie** (09.2021 - 05.2022) as team-lead, full-stack developer `#osint` `#consulting`
 - **MagicWood** (08.2019 - 09.2021) as full-stack developer `#ecommerce` `#house_building`
