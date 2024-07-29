@@ -1,5 +1,3 @@
-# Back-end developer at OZON
-
 ### About me
 I started my carreer at July of 2017 and since that I do not image myself without programing.
 
