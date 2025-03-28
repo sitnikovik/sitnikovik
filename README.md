@@ -23,6 +23,7 @@ I started my carreer at July of 2017 and since that I do not image myself withou
 - 💰 eCommerce
 - 🕵️ OSINT
 - 🏗️ Building
+- ✈️ Travel
 
 ### Worked at
 
